@@ -76,11 +76,11 @@ export function NavBar() {
               src="https://static.wixstatic.com/media/503ea4_cb7ebc8a601749f098164d92ec7aa441~mv2.jpg/v1/fill/w_480,h_622,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/503ea4_cb7ebc8a601749f098164d92ec7aa441~mv2.jpg"
               width={240}
               height={0}
-              alt="Talisa Kidd"
+              alt="Sheila On 7"
             />
           </div>
           <h2 className="text-center text-2xl sm:text-[120px] z-20 sm:mt-[-150px]">
-            TALI$A KIDD
+            SHEILA ON 7
           </h2>
         </div>
         <ul className="flex flex-col items-center gap-4 justify-end mt-4 sm:mt-[140px]">

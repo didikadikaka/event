@@ -2,7 +2,7 @@
 const nextConfig = {
   env: {},
   reactStrictMode: true,
-  swcMinify: true,
+  swcMinify: false,
   experimental: {
     appDir: true,
   },
