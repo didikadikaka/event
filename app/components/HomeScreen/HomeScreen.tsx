@@ -87,21 +87,21 @@ export function HomeScreen({
           </div>
           <div className="basis-1/2">
             <Image
-              src="https://static.wixstatic.com/media/503ea4_ed9a38760ae04aab86b47e82525fdcac~mv2.jpg/v1/fill/w_918,h_585,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/503ea4_ed9a38760ae04aab86b47e82525fdcac~mv2.jpg"
+              src="/images/people-festival.jpg"
               alt="SHEILA ON 7"
               className="w-full px-10 sm:px-0"
-              width={1000}
+              width={100}
               height={800}
             />
           </div>
         </div>
-        <Image
+        {/* <Image
           className="absolute inset-x-2/4 -translate-x-2/4 -translate-y-[20%] bottom-0 top-[20%] hidden sm:block"
           src="https://static.wixstatic.com/media/c22c23_14f3a617cd684341b51dd1a3962c856e~mv2.png/v1/fill/w_202,h_245,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_14f3a617cd684341b51dd1a3962c856e~mv2.png"
           alt="SHEILA ON"
           width={202}
-          height={245}
-        />
+          height={245} */}
+        {/* /> */}
       </div>
       {events?.length ? (
         <div className="bg-zinc-900 text-site pt-16 sm:p-20">

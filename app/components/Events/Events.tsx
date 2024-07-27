@@ -70,7 +70,7 @@ export const Events = ({ events }: { events: wixEvents.V3Event[] }) => {
               </div>
               <div className="grow flex flex-col hover:text-purple-500">
                 <button
-                  className="text-left w-full h-full group/button text-2xl text-left"
+                  className="text-left w-full h-full group/button text-2xl"
                   onClick={(e) => {
                     setExpendEventDescription({
                       [event._id!]: !expendEventDescription[event._id!],
