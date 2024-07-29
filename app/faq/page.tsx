@@ -9,42 +9,23 @@ export default function FAQPage() {
           DO YOU PROVIDE INTERNATIONAL DELIVERY?
         </h2>
         <p>
-          I’m a paragraph. Use this area to describe something. You can change
-          the text so people can learn more. It’s a great space to share
-          important information.
         </p>
         <h2 className="text-3xl py-5 mt-10">HOW DO I TRACK MY ORDER?</h2>
         <p>
-          I am a paragraph. Add your own text and edit me. I’m a great place for
-          you add important information and tell your users more. Well written
-          text shows people that you are credible and reliable. Try to keep the
-          text simple and easy to read.
         </p>
         <h2 className="text-3xl py-5 mt-10">HOW DO I RETURN AN ITEM?</h2>
         <p>
-          I’m a paragraph. Use this area to describe something. You can change
-          the text so people can learn more. It’s a great space to share
-          important information.
         </p>
         <h2 className="text-3xl py-5 mt-10">
           HOW CAN I CONTACT YOUR COURIERS?
         </h2>
         <p>
-          I am a paragraph. Use this area to describe something. You can change
-          the text so people can learn more. It’s a great space to share
-          important information.
         </p>
         <h2 className="text-3xl py-5 mt-10">WHAT IS YOUR RETURNS POLICY?</h2>
         <p>
-          I am a paragraph. Use this area to describe something. You can change
-          the text so people can learn more. It’s a great space to share
-          important information.
         </p>
         <h2 className="text-3xl py-5 mt-10">WHAT ARE YOUR DELIVERY OPTIONS?</h2>
         <p>
-          I am a paragraph. Use this area to describe something. You can change
-          the text so people can learn more. It is a great space to share
-          important information.
         </p>
       </div>
     </div>

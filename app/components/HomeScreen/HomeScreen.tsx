@@ -129,9 +129,7 @@ export function HomeScreen({
               Merch
             </h1>
             <p className="text-lg my-10 text-black">
-              I am a paragraph. I’m a great space to write about what makes the
-              products special and explain how customers can benefit from these
-              items.
+            Get official merchandise from Sheila On 7 for you fans
             </p>
             <a
               href="/shop"
